@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SSONALGUPTA
+- 👋 Hi, I’m Sonal
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently learning  Java .
 -  I’m looking to collaborate on Github
