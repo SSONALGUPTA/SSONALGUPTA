@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sonal
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning  Java .
 
 
